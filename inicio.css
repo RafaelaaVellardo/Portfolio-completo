@@ -310,7 +310,7 @@ cursor: pointer;
 .box-linguagens{
     background-color: rgb(71, 47, 128);
     width: 1100px;
-    height: 4000px;
+    height: 5700px;
     margin-left: 220px;
     border-radius: 20px;
 }
@@ -364,7 +364,7 @@ cursor: pointer;
 .box-humanas{
     background-color: rgb(60, 94, 167);
     width: 1100px;
-    height: 2000px;
+    height: 3500px;
     margin-left: 220px;
     border-radius: 20px;
 }
@@ -435,7 +435,7 @@ cursor: pointer;
 .box-natureza{
     background-color: rgb(54, 110, 21);
     width: 1100px;
-    height: 3000px;
+    height: 4500px;
     margin-left: 220px;
     border-radius: 20px;
 }
@@ -497,7 +497,7 @@ cursor: pointer;
 .box-matematica{
     background-color: rgb(62, 21, 110);
     width: 1100px;
-    height: 2000px;
+    height: 3000px;
     margin-left: 220px;
     border-radius: 20px;
 }
@@ -559,7 +559,7 @@ cursor: pointer;
 .box-tecnico{
     background-color: rgb(62, 21, 110);
     width: 1100px;
-    height: 2000px;
+    height: 3000px;
     margin-left: 220px;
     border-radius: 20px;
 }
